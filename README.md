@@ -37,4 +37,10 @@
    - 계정이 다시 복구 되어서 이 레포를 지우는 날이 오기를..
 
 ### 복구 진행 막힌 부분 스샷
-![복구 진행 막힌 부분 스샷](https://github.com/dlakwwkd/try-account-recovery/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-05-05%20023146.png)
+![스샷1](https://github.com/dlakwwkd/try-account-recovery/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-05-05%20023146.png)
+
+### 개같은 Github support 챗봇 스샷
+![스샷2](https://github.com/dlakwwkd/try-account-recovery/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-05-05%20035423.png)
+
+### 지원팀에 문의하려면 로그인을 해서 티켓을 생성해야한다는 가이드 문서 스샷
+![스샷2](https://github.com/dlakwwkd/try-account-recovery/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-05-05%20035644.png)
